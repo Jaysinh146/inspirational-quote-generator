@@ -1,0 +1,4 @@
+com/yourname/quote/service/QuoteService.class
+com/yourname/quote/InspirationalQuoteGeneratorApplication.class
+com/yourname/quote/controller/QuoteController.class
+com/yourname/quote/model/Quote.class
